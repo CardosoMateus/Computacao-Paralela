@@ -1,1 +1,7 @@
 Laboratorio 04 - Memoria
+
+Para iniciar o programa, apenas execute o arquivo Lab04.
+
+Este programa realiza operacoes aritmeticas em um valor inicial,
+primeiro no processo filho e depois no processo pai utilizando um 
+segmento de memoria compartilhada.
