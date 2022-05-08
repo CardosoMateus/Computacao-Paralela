@@ -1,0 +1,11 @@
+Neste diretorio ha dois programas calculando a serie de Taylor para ln(T).
+
+	O programa "Taylor.c" le o inteiro T pela linha de comando, por exemplo: "./Taylor 100" 
+para calcular ln(100).
+
+	O programa "p-taylor.c" calcula ln(T) utilizando pthread`s. para executa-lo digite, nesta 
+ordem, o valor de T a ser calculado e o numero de threads a serem utilizadas, por exemplo: 
+"./p_taylor 100 4" calcula o valor de ln(100) utilizando 4 threads.
+
+	Infelizmente, o tempo de exucuca, medido pelo comando "time" do Linux sao, na media, o 
+mesmo valor.
