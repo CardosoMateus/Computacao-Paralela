@@ -1,0 +1,4 @@
+	Implementacao do projeto utiizando openmp.
+	O programa le o valor de t e o numero de threads pela linha de comando, exemplo: 
+"./taylor 100 4" calcula o valor de ln(100) utilizando 4 threads.
+
